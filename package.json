@@ -10,6 +10,7 @@
     "redux-logger": "^2.6.1"
   },
   "dependencies": {
+    "axios": "^0.15.3",
     "humps": "^1.1.0",
     "lodash": "^4.16.1",
     "normalizr": "3.0.0",
