@@ -9,7 +9,6 @@ const headers = {
     'api-auth-method': 'b',
     'dealer-id': 1,
     'request-id': '',
-    // 'x-auth-token': "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZWFsZXJJZCI6InNpeGNuIiwibWFuYWdlSWQiOjEsIm1hbmFnZU5hbWUiOiI2Y24iLCJtYW5hZ2VUeXBlIjoiZGVhbGVyLWZpbmFuY2UiLCJ0aW1lc3RhbXAiOjE0ODA0OTkyNDN9.PdX-YEQdSsbOqGI7I_3togoJHioDWsjBwggtrpbQS6E"
 }
 const timeout = 10000 // 10s
 

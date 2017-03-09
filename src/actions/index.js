@@ -7,6 +7,7 @@ export const USER_FAILURE = 'USER_FAILURE'
 // Fetches a single user from Github API.
 // Relies on the custom API middleware defined in ../middleware/api.js.
 const fetchUser = login => ({
+
   [CALL_API]: {
     types: [ USER_REQUEST, USER_SUCCESS, USER_FAILURE ],
     endpoint: `users/${login}`,
